@@ -27,22 +27,46 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="唐诗项目" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/线程池版/MultipleThreadCatch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="704">
-              <caret line="157" column="36" selection-start-line="157" selection-start-column="36" selection-end-line="157" selection-end-column="36" />
+            <state relative-caret-position="2950">
+              <caret line="118" column="7" selection-start-line="118" selection-start-column="7" selection-end-line="118" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="579">
+              <caret line="44" column="42" lean-forward="true" selection-start-line="44" selection-start-column="42" selection-end-line="44" selection-end-column="42" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/lab/CountDownLatchDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lab/求SHA_256Demo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="625">
-              <caret line="28" column="38" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
+            <state relative-caret-position="375">
+              <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/单线程版/SingleThreadCatch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="25" column="35" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -53,26 +77,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/多线程版/MultipleThreadCatch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2350">
-              <caret line="94" column="7" selection-end-line="150" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/单线程版/SingleThreadCatch.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1075">
-              <caret line="43" column="19" selection-end-line="121" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/lab/插入诗词Demo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="825">
-              <caret line="33" column="111" selection-end-line="48" />
+            <state relative-caret-position="1875">
+              <caret line="75" column="23" selection-start-line="75" selection-start-column="23" selection-end-line="75" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -89,18 +95,20 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/lab/HtmlUnitDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/lab/列表页下载提取Demo.java" />
         <option value="$PROJECT_DIR$/src/main/java/lab/详情页下载提取Demo.java" />
         <option value="$PROJECT_DIR$/src/main/java/lab/分词Demo.java" />
         <option value="$PROJECT_DIR$/src/main/java/lab/求SHA_256Demo.java" />
         <option value="$PROJECT_DIR$/src/main/java/线程池版/SingleThreadCatch.java" />
-        <option value="$PROJECT_DIR$/src/main/java/单线程版/SingleThreadCatch.java" />
-        <option value="$PROJECT_DIR$/src/main/java/多线程版/MultipleThreadCatch.java" />
         <option value="$PROJECT_DIR$/src/main/java/lab/插入诗词Demo.java" />
         <option value="$PROJECT_DIR$/src/main/java/lab/CountDownLatchDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/单线程版/SingleThreadCatch02.java" />
+        <option value="$PROJECT_DIR$/src/main/java/线程池版/MultiThread.java" />
         <option value="$PROJECT_DIR$/src/main/java/线程池版/MultipleThreadCatch.java" />
+        <option value="$PROJECT_DIR$/src/main/java/单线程版/SingleThreadCatch.java" />
+        <option value="$PROJECT_DIR$/src/main/java/多线程版/MultipleThreadCatch.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -183,6 +191,10 @@
               <item name="唐诗项目" type="462c0819:PsiDirectoryNode" />
               <item name="唐诗三百首" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="唐诗项目" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -193,7 +205,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/线程池版" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -207,6 +219,8 @@
       <recent name="lab" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\代码\2020\唐诗项目\src\main\java\线程池版" />
+      <recent name="D:\代码\2020\唐诗项目\src\main\java\单线程版" />
       <recent name="D:\代码\2020\唐诗项目" />
     </key>
   </component>
@@ -262,6 +276,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MultiThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="线程池版.MultiThread" />
+      <module name="唐诗项目" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="线程池版.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MultipleThreadCatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="线程池版.MultipleThreadCatch" />
       <module name="唐诗项目" />
@@ -305,10 +332,12 @@
       <item itemvalue="Application.MultipleThreadCatch" />
       <item itemvalue="Application.求SHA_256Demo" />
       <item itemvalue="Application.详情页下载提取Demo" />
+      <item itemvalue="Application.MultiThread" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.MultipleThreadCatch" />
+        <item itemvalue="Application.MultiThread" />
         <item itemvalue="Application.MultipleThreadCatch" />
         <item itemvalue="Application.求SHA_256Demo" />
         <item itemvalue="Application.详情页下载提取Demo" />
@@ -328,21 +357,32 @@
       <workItem from="1581382982927" duration="20277000" />
       <workItem from="1581468482300" duration="4643000" />
       <workItem from="1581492702034" duration="41000" />
+      <workItem from="1581918100142" duration="12541000" />
+      <workItem from="1582096985357" duration="29000" />
+      <workItem from="1582166597070" duration="5877000" />
+      <workItem from="1582332259361" duration="1235000" />
+      <workItem from="1582614889058" duration="2704000" />
+      <workItem from="1582682755277" duration="171000" />
+      <workItem from="1582784791736" duration="2460000" />
+      <workItem from="1582937667100" duration="1779000" />
+      <workItem from="1583045624080" duration="19000" />
+      <workItem from="1583238742787" duration="1490000" />
+      <workItem from="1583240734280" duration="312000" />
+      <workItem from="1583241065833" duration="1296000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24961000" />
+    <option name="totallyTimeSpent" value="54874000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1455" height="935" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21259843" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49875623" visible="true" weight="0.25125268" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
-      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Favorites" order="4" sideWeight="0.50124377" side_tool="true" weight="0.22691482" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.329602" />
@@ -368,19 +408,48 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/单线程版/SingleThreadCatch.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/单线程版/SingleThreadCatch.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/唐诗三百首/列表页.html">
+    <entry file="file://$PROJECT_DIR$/行宫.html" />
+    <entry file="file://$USER_HOME$/Desktop/行宫原文、翻译及赏析_元稹古诗_古诗文网.html" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/线程池版/SingleThreadCatch.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/lab/CountDownLatchDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="49" column="24" lean-forward="true" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="24" />
+        <state relative-caret-position="625">
+          <caret line="28" column="38" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/行宫.html" />
-    <entry file="file://$USER_HOME$/Desktop/行宫原文、翻译及赏析_元稹古诗_古诗文网.html" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/lab/插入诗词Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="33" column="111" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/lab/列表页下载提取Demo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
+        <state relative-caret-position="203">
           <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -390,25 +459,60 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/lab/详情页下载提取Demo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1025">
-          <caret line="48" column="68" selection-start-line="45" selection-start-column="16" selection-end-line="48" selection-end-column="68" />
+        <state relative-caret-position="275">
+          <caret line="30" column="41" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/唐诗三百首/列表页.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+        <state relative-caret-position="300">
+          <caret line="63" column="21" selection-start-line="63" selection-start-column="17" selection-end-line="63" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/行宫原文、翻译及赏析_元稹古诗_古诗文网.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4375">
+          <caret line="175" column="35" selection-start-line="175" selection-start-column="28" selection-end-line="175" selection-end-column="35" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lab/HtmlUnitDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="22" column="90" selection-start-line="22" selection-start-column="82" selection-end-line="22" selection-end-column="90" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/lab/分词Demo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
+        <state relative-caret-position="300">
           <caret line="12" column="73" selection-start-line="12" selection-start-column="73" selection-end-line="12" selection-end-column="73" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/单线程版/SingleThreadCatch02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="76" column="47" selection-start-line="76" selection-start-column="47" selection-end-line="76" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/线程池版/MultiThread.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/线程池版/MultipleThreadCatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2950">
+          <caret line="118" column="7" selection-start-line="118" selection-start-column="7" selection-end-line="118" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -422,38 +526,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lab/HtmlUnitDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/单线程版/SingleThreadCatch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="22" column="90" selection-start-line="22" selection-start-column="82" selection-end-line="22" selection-end-column="90" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/行宫原文、翻译及赏析_元稹古诗_古诗文网.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="175" column="35" selection-start-line="175" selection-start-column="28" selection-end-line="175" selection-end-column="35" />
-          <folding>
-            <element signature="n#style#0;n#h1#0;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/线程池版/SingleThreadCatch.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/线程池版/MultipleThreadCatch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="704">
-          <caret line="157" column="36" selection-start-line="157" selection-start-column="36" selection-end-line="157" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lab/CountDownLatchDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="625">
-          <caret line="28" column="38" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
+        <state relative-caret-position="175">
+          <caret line="25" column="35" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -462,22 +538,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/多线程版/MultipleThreadCatch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2350">
-          <caret line="94" column="7" selection-end-line="150" />
+        <state relative-caret-position="1875">
+          <caret line="75" column="23" selection-start-line="75" selection-start-column="23" selection-end-line="75" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/单线程版/SingleThreadCatch.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1075">
-          <caret line="43" column="19" selection-end-line="121" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lab/插入诗词Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="825">
-          <caret line="33" column="111" selection-end-line="48" />
+        <state relative-caret-position="579">
+          <caret line="44" column="42" lean-forward="true" selection-start-line="44" selection-start-column="42" selection-end-line="44" selection-end-column="42" />
         </state>
       </provider>
     </entry>
